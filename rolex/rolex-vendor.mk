@@ -2415,5 +2415,4 @@ PRODUCT_PACKAGES += \
     TimeService \
     PowerOffAlarm \
     dpmserviceapp \
-    qcrilmsgtunnel \
-    chargeonlymode
+    qcrilmsgtunnel 
